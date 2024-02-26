@@ -1,7 +1,7 @@
 {
   "name": "mongodbapi",
   "version": "1.0.0",
-  "description": "this is my rest full application",
+  "description": "this is my api",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
